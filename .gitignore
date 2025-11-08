@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+env/
+*.pkl
+
+# Node / React
+node_modules/
+build/
