@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pydantic
 pandas
-xgboost
+scikit-learn
 joblib
+httpx
 python-multipart
